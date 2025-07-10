@@ -72,3 +72,13 @@ Course designed to teach the fundamentals of machine learning, from regression a
     - Bagging (aka Bootstrapping)
     - Boosting
     - Stacking
+
+
+### [Week 6](/week_06/)
+
+1. Introduction to Unsupervised Learning
+2. Applications of Unsupervised Learning
+3. KMeans Clustering
+4. Within-Cluster Sum of Squares and Elbow plot
+5. Evaluating Unsupervised Models
+6. Practical Examples
